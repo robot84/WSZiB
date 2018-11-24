@@ -18,15 +18,16 @@ public class Excercise1 {
 
 
     private void run() {
-
+        int a = 1;
+        int b = 13;
         System.out.println("Please write first integer number:");
         Scanner scanner = new Scanner(System.in);
-        int myInt1 = scanner.nextInt();
+        a = scanner.nextInt();
         System.out.println("Please write second integer number:");
-        int myInt2 = scanner.nextInt();
+        b = scanner.nextInt();
 
-        if (LogicalOperations.onlyOneOfTwoIsTrue(LogicalOperations.isTeen(myInt1),
-                LogicalOperations.isTeen(myInt2)))
+        if (LogicalOperations.onlyOneOfTwoIsTrue(LogicalOperations.isTeen(a),
+                LogicalOperations.isTeen(b)))
             System.out.println("teen");
     }
 }
