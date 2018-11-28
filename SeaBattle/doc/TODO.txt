@@ -1,0 +1,19 @@
+Widok:
+- druga szachownica
+    +ustawienie ich odpowiednio na oknie (50 minut, bo nie wiedzialem jak, w necie nie znalazlem, i probowalem na chybil trafil az znalazlem metode
+-etykiety poziome lewe
+-etykiety pionowe gorne
+-etykiety poziome prawe
+-muzyka ciagla (+on/off:)
+-dzwieki odtwarzane dla zdarzenia pudla,trafienia, zatopienia oraz analogicznych akcji przeciwnika
+-ukladanie statkow przez przenoszenie na mape i obracanie, oraz operacja cofnij,anuluj
+-wyswietlenie zawartosci pola(x,y)
+-obsluga odkrywania pol
+Started:
+19:00
+
+
+Model
+
+
+Kontroler
