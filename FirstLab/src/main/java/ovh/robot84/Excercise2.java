@@ -1,3 +1,5 @@
+package ovh.robot84;
+
 public class Excercise2 {
     /*
     Exercise 2:

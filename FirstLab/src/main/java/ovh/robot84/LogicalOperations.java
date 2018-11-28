@@ -1,3 +1,5 @@
+package ovh.robot84;
+
 public class LogicalOperations {
 
     static public boolean onlyOneOfTwoIsTrue(boolean one, boolean two) {

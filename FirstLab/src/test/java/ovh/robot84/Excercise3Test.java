@@ -1,3 +1,5 @@
+package ovh.robot84;
+
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertFalse;

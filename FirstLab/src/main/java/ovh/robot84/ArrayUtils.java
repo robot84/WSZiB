@@ -1,3 +1,5 @@
+package ovh.robot84;
+
 public class ArrayUtils {
     static public boolean sequenceAppearsInArray(int[] sequence, int[] array) {
 

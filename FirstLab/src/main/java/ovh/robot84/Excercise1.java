@@ -1,3 +1,5 @@
+package ovh.robot84;
+
 import java.util.Scanner;
 
 public class Excercise1 {
