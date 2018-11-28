@@ -1,6 +1,15 @@
 package ovh.robot84;
 
+/**
+ *
+ */
 public class ArrayUtils {
+
+    /**
+     * @param sequence
+     * @param array
+     * @return
+     */
     static public boolean sequenceAppearsInArray(int[] sequence, int[] array) {
 
         //System.out.println("seq.len "+sequence.length+" array.len "+array.length);
