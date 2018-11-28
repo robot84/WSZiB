@@ -1,16 +1,20 @@
 Widok:
-- druga szachownica
-    +ustawienie ich odpowiednio na oknie (50 minut, bo nie wiedzialem jak, w necie nie znalazlem, i probowalem na chybil trafil az znalazlem metode
--etykiety poziome lewe
+v druga szachownica
+    +ustawienie ich odpowiednio na oknie (80 minut, bo nie wiedzialem jak, w necie nie znalazlem, i probowalem na chybil trafil az znalazlem metode)
+        -> najlepiej narysowac obrazek, bo ze skladaniem wielu elementow graficznych w calosc sie traci za duzo czasu
+v etykiety poziome lewe
 -etykiety pionowe gorne
 -etykiety poziome prawe
 -muzyka ciagla (+on/off:)
 -dzwieki odtwarzane dla zdarzenia pudla,trafienia, zatopienia oraz analogicznych akcji przeciwnika
 -ukladanie statkow przez przenoszenie na mape i obracanie, oraz operacja cofnij,anuluj
--wyswietlenie zawartosci pola(x,y)
+
+v wyswietlenie zawartosci pola(x,y)
+    + metoda updateField(x,y,state) rysujaca cos na polu w zaleznosci od stanu (80 minut)
 -obsluga odkrywania pol
 Started:
 19:00
+20.50 ponowny start
 
 
 Model
